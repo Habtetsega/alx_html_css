@@ -263,6 +263,9 @@
          z-index: 3;
          background: transparent;
   }
+  .header-container{
+	  display:flex;
+	  align-items:center;
   
   .header-logo {
     position: var(--header-logo-position);
