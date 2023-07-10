@@ -266,7 +266,7 @@
   .header-container{
 	  display:flex;
 	  align-items:center;
-  
+  } 
   .header-logo {
     position: var(--header-logo-position);
   }
